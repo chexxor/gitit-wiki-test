@@ -1,0 +1,26 @@
+
+Welcome to the Nix Project wiki!
+
++---------------------+--------------------+------------------------------+
+| Package Manager     | NixOS              | Infrastructure & Deployment  |
++=====================+====================+==============================+
+| Main Page           | NixOS Main Page    | Test Infrastructure          |
+| Installing Packages | Modules Overview   | Deployment and NixOps        |
+| Creating Packages   |                    |                              |
++---------------------+--------------------+------------------------------+
+
++---------------------+--------------------+------------------------------+
+| Contribute          |  NixOS Desktop     |  Community                   |
++=====================+====================+==============================+
+| Docs                |  (something)       | Events and Press             |
+| Git & GitHub        |                    | FAQs                         |
++---------------------+--------------------+------------------------------+
+
+
+Package Manager            NixOS
+--------              -----------
+Main Page                  NixOS Main Page
+Installing Packages         Modules Overview
+                       Creating Modules
+
+
